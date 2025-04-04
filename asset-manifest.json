@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/elly-test-assignment-1/static/js/main.78217e04.js",
-    "static/js/453.fbc16616.chunk.js": "/elly-test-assignment-1/static/js/453.fbc16616.chunk.js",
-    "index.html": "/elly-test-assignment-1/index.html",
-    "main.78217e04.js.map": "/elly-test-assignment-1/static/js/main.78217e04.js.map",
-    "453.fbc16616.chunk.js.map": "/elly-test-assignment-1/static/js/453.fbc16616.chunk.js.map"
+    "main.js": "/ellty-test-assignment-1/static/js/main.843a3955.js",
+    "static/js/453.fbc16616.chunk.js": "/ellty-test-assignment-1/static/js/453.fbc16616.chunk.js",
+    "index.html": "/ellty-test-assignment-1/index.html",
+    "main.843a3955.js.map": "/ellty-test-assignment-1/static/js/main.843a3955.js.map",
+    "453.fbc16616.chunk.js.map": "/ellty-test-assignment-1/static/js/453.fbc16616.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.78217e04.js"
+    "static/js/main.843a3955.js"
   ]
 }
